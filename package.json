@@ -1,0 +1,19 @@
+{
+  "name": "react-ninja",
+  "version": "1.0.0",
+  "description": "Curso de React Ninja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cotts/react-ninja.git"
+  },
+  "author": "Thadeu Cotts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cotts/react-ninja/issues"
+  },
+  "homepage": "https://github.com/cotts/react-ninja#readme"
+}
